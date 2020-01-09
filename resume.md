@@ -1,10 +1,10 @@
 # Jou Ho
 
-jouh@uw.edu
+email: jouh@uw.edu
 
-https://github.com/jouho
+GitHub: https://github.com/jouho
 
-https://www.linkedin.com/in/jou-ho-6a2655192
+LinkedIn: https://www.linkedin.com/in/jou-ho-6a2655192
 
 # About me ☺
 
@@ -46,3 +46,5 @@ Seattle, WA. UW, *Taiwanese Student Association public relation team officer*
 [University of Washington]: https://www.washington.edu/
 [research project]: https://github.com/jakobzhao/tiktok
 [research]: https://zivaxu.shinyapps.io/Trash-Pandas-nest/
+[https://github.com/jouho]: https://github.com/jouho
+[https://github.com/jouho]: https://github.com/jouho
