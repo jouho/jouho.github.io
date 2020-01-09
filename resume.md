@@ -6,7 +6,7 @@ https://github.com/jouho
 
 https://www.linkedin.com/in/jou-ho-6a2655192
 
-# About me
+# About me ☺
 
 I am an udergraduate student at University of Washington studying geographical information science, information technologies and their applications in our life. I have a software engineering experience in Japan and have been an active member of many cultural student organizations.
 
