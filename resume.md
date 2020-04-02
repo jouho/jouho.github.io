@@ -73,7 +73,7 @@ Seattle, WA. UW, _Taiwanese Student Association public relation team officer_
 
 **Undergraduate Student** (Sept. 2017 - Jun. 2021)
 **Major: Geographical Information Science**
-**Minor: Informatics**
+**Minor: Informatics** 
 
 [university of washington]: https://www.washington.edu/
 
