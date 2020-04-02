@@ -65,6 +65,7 @@ Seattle, WA. UW, _Taiwanese Student Association public relation team officer_
 -   _COVID-19: Novel Coronavirus Infection Map_, Humanistic GIS Lab, January 2020. URL:<https://hgis.uw.edu/virus/>
 -   _Lab Tutorial: Geo-tagged tweet collection and visualization_, GitHub, April 2020. URL:<https://github.com/jakobzhao/geog458/tree/master/labs/lab02>
 -   _Lab Tutorial: Place context analysis using Natural Language Processing_, GitHub, February 2020. URL:<https://github.com/jakobzhao/geog595/blob/master/06_ai/pe.md>
+-   _TikTok Crawler_, GitHub, February 2020. URL:<https://github.com/jouho/tiktok_crawler>
 
 ## Education
 
