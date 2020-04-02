@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/jou-ho-6a2655192
 
 ## About me ☺
 
-I am an undergraduate student at the University of Washington, studying geographical information science, information technologies, and their applications in our life. I have a software engineering experience in Japan, and aside from being a computer programmer, I am also an enthusiastic researcher on social media. I also have been an active member of many cultural student organizations.
+I am an undergraduate student at the University of Washington, studying geographical information science, information technologies, and their applications in our life. I have a software engineering experience in Japan, and aside from being a computer programmer, I am also an enthusiastic researcher on social media and information architechture. My current interest lie in developing a decentralized application using blockchain technology. I also have been an active member of many cultural student organizations.
 
 ## Skills/Qualifications
 - Expertise and Experience in:
