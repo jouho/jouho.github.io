@@ -23,12 +23,17 @@ I am an undergraduate student at the University of Washington, studying geograph
 -   Soft Skills:
     -   Teamwork, Communication, Strategic Planning, Time Management
 
-## Work Experience (last 10 years)
+## Experience (last 10 years)
 
 Apr. 2020 to Present :
-Seattle, Wa. UW, Geography Department, _Hourly Student Assistant_
+Seattle, WA. UW, Geography Department, _Hourly Student Assistant_
 
 > Duties include attending virtual meetings with the principal investigator of Humanistic GIS lab, Dr. Zhao, as appropriate, collecting and compiling information on digital geographies, analyzing and proofreading documents as assigned under Dr. Zhao’s close supervision.
+
+Mar. 2020 to Present :
+Seattle, WA. UW, Humanistic GIS Lab, _COVID-19: Novel Coronavirus Infection Map Project_
+
+> Contributed in a developement of the Novel Coronavirus Infection Map. This web dashboard is updated daily [here](https://hgis.uw.edu/virus/).
 
 Nov. 2019 to Present :
 Seattle, WA. UW Humanistic GIS Lab, _Undergraduate Student Research Assistant_
